@@ -2,4 +2,4 @@
 
 echo "Hello World"
 
-echo -e "\[31m Hello World \[0m"
+echo -e "\[32m Hello World \[0m"
