@@ -6,4 +6,4 @@ function ADD() {
 
 c=23
 e=5
-ADD $c $b 
+ADD $c $e 
