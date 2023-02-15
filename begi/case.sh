@@ -9,6 +9,7 @@ while [ $finished -ne 1 ]; do
     echo "4 - Mint"
     echo "5 - Ubuntu"
     echo "6 - something esle.."
+    echo "7 - Exit the script."
 
     read distro;
 
