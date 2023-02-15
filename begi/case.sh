@@ -24,3 +24,5 @@ while [ $finished -ne 1 ]; do
         *) echo "you didn't enter an apprioprate choice."
     esac
 done 
+
+echo "Thank you for using the script."
