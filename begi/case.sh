@@ -11,7 +11,7 @@ while [ $finished -ne 1 ]; do
     echo "6 - something esle.."
     echo "7 - Exit the script."
 
-    read distro;
+    read distro
 
     case $distro in 
         1) echo "Arch is a rolling release" ;;
