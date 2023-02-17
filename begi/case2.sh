@@ -14,3 +14,5 @@ case $system in
     *)
     echo "unknown system"
 esac 
+
+# uto when executing the script type a command after e.g. linux
